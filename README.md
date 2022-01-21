@@ -1,4 +1,4 @@
-![](https://www.pngall.com/wp-content/uploads/2017/05/Save-Water-PNG-Image.png)
+![](https://github.com/emreyesilyurt/water_potability_classification/blob/main/assets/water.png?raw=true)
 
 ## Water Potability Classification
 
